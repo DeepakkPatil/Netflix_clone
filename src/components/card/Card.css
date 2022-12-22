@@ -1,0 +1,17 @@
+.card_poster{
+    height: 160px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-right:13px ;
+   transition: 0.9s;
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCoJS-dBfJsXZnegxkz4U-k1kv7YjdhTWDGQ&usqp=CAU");
+}
+
+.card_poster_video{
+    height: 140px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-right:13px ;
+   transition: 0.9s;
+   background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCoJS-dBfJsXZnegxkz4U-k1kv7YjdhTWDGQ&usqp=CAU");
+}
