@@ -1,4 +1,8 @@
-<h1><u>Netflix Clone Using React</u></h1>
+
+[Deployed App: Netflix Clone](https://netflix-deepak-clone.netlify.app) 
+
+
+<h3><u>Netflix Clone Using React</u></h3>
 
 
 
