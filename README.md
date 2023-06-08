@@ -1,7 +1,9 @@
 
 [Deployed App: Netflix Clone](https://netflix-deepak-clone.netlify.app) 
 
-
+<p align="center">
+<img src="https://i.ibb.co/TgbrjTg/translogo-Dark.png" width="200"/>
+</p>
 <h3><u>Netflix Clone Using React</u></h3>
 
 
